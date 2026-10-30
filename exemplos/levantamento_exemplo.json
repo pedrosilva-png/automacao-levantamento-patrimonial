@@ -1,0 +1,9 @@
+{
+  "local": "Sala de TI — Bloco A",
+  "responsavel": "Equipe de Suporte Técnico",
+  "itens": [
+    {"descricao": "Desktop corporativo i5 16GB SSD 512GB", "patrimonio": "004512"},
+    {"descricao": "Monitor LED 24 polegadas Full HD", "patrimonio": "004513"},
+    {"descricao": "Switch gerenciável 24 portas Gigabit", "patrimonio": "004514"}
+  ]
+}
